@@ -2,6 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
+//Magic Ball App
 void main() {
   runApp(MyApp());
 }
